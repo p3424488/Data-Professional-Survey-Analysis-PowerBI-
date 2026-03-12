@@ -76,3 +76,25 @@ Data-Professional-Survey-Analysis-PowerBI
 │   └── Dashboard_Screenshot.png
 │
 └── README.md
+
+🚀 How to Use
+
+Download the repository.
+
+Open the .pbix file in Power BI Desktop.
+
+Explore the dashboard and visualizations.
+
+Modify the dataset or visuals to perform further analysis.
+
+🎯 Project Purpose
+
+This project was created to:
+
+Practice data analysis and visualization
+
+Learn Power BI dashboard development
+
+Demonstrate business intelligence skills
+
+Build a portfolio project for data analyst roles
